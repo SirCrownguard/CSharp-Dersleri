@@ -150,12 +150,12 @@ namespace _02_Variables
 
             #region Klavyeden Karakter Girişleri
 
-            char gender;
+            //char gender;
 
-            Console.Write("Cinsiyet (E/K): ");
-            gender = char.Parse(Console.ReadLine());
+            //Console.Write("Cinsiyet (E/K): ");
+            //gender = char.Parse(Console.ReadLine());
 
-            Console.WriteLine("Seçilen cinsiyet: " + gender);
+            //Console.WriteLine("Seçilen cinsiyet: " + gender);
 
             #endregion
 
